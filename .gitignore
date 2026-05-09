@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Project data
+chroma_db/
+documents/
+*.db
+*.db-wal
+*.db-shm
+exports/
+
+# Environment
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

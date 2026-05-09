@@ -1,0 +1,13 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-ollama==0.3.3
+langchain-openai>=0.2.0       # for vllm / openai backends
+# langchain-anthropic>=0.2.0  # uncomment if using anthropic backend
+chromadb==0.6.3
+sentence-transformers==3.4.1
+pypdf==5.4.0
+unstructured==0.17.2
+markdown==3.7
+streamlit==1.44.1
+duckduckgo-search==7.5.1
+pytest==8.3.5
